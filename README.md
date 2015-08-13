@@ -1,7 +1,7 @@
 # Nagios Avaya checks
-=============
 
 (c) Pat O'Brien <poblabs@github.com> - http://github.com/poblabs
+
 Please read LICENSE for licensing info
 
 These are a collection of scripts used for Nagios and checking Avaya alarms, trunk groups and server health. 
